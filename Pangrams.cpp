@@ -23,7 +23,7 @@ int main() {
         else
                 cout << "not pangram" ;
     return 0;
-}
+} 
 
 
 
