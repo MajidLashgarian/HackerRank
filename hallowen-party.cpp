@@ -1,3 +1,7 @@
+//problem URL : 
+//https://www.hackerrank.com/challenges/halloween-party
+
+
 #include <cmath>
 #include <cstdio>
 #include <vector>
